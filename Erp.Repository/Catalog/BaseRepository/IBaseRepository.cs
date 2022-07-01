@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Erp.Model.Common;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Erp.Repository.Catalog.BaseRepository
 {
-    public interface IBaseRepository<TEntity, TKey, TDbContext>
+    public interface IBaseRepository<TEntity, TKey, TDbContext> where TEntity : BaseEntity<TKey> where TDbContext : DbContext
     {
         Task<int> Create(TEntity entity);
         Task<int> Update(TEntity entity);

@@ -46,6 +46,7 @@ namespace Erp.Repository.Catalog.BaseRepository
         public async Task<List<TEntity>> GetList(Expression<Func<TEntity, bool>> expresstion)
         {
             var listEntity = await _dbSet.Where(expresstion).ToListAsync();
+            var c = 3;
             return listEntity;
         }
     }

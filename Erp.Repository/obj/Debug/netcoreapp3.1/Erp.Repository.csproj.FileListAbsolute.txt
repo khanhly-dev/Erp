@@ -1,0 +1,13 @@
+E:\30ShineERP\Erp.Repository\bin\Debug\netcoreapp3.1\Erp.Repository.deps.json
+E:\30ShineERP\Erp.Repository\bin\Debug\netcoreapp3.1\Erp.Repository.dll
+E:\30ShineERP\Erp.Repository\bin\Debug\netcoreapp3.1\Erp.Repository.pdb
+E:\30ShineERP\Erp.Repository\bin\Debug\netcoreapp3.1\Erp.Model.dll
+E:\30ShineERP\Erp.Repository\bin\Debug\netcoreapp3.1\Erp.Model.pdb
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.csproj.AssemblyReference.cache
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.AssemblyInfoInputs.cache
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.AssemblyInfo.cs
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.csproj.CoreCompileInputs.cache
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.csproj.CopyComplete
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.dll
+E:\30ShineERP\Erp.Repository\obj\Debug\netcoreapp3.1\Erp.Repository.pdb
